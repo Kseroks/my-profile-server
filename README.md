@@ -2,8 +2,8 @@
 
 ##API
 
-### Description 
+### My Api 
+
 https://server-my-profile.herokuapp.com/api/descriptions
 
-###Links
 https://server-my-profile.herokuapp.com/api/links
